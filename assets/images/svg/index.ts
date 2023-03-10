@@ -10,4 +10,12 @@ import CloseFilled from './close_fill.svg'
 import Edit from './edit.svg'
 import Key from './key.svg'
 import Profile from './profile.svg'
-export { Alert, Call, Camera, Key, CheckboxUnChecked, CheckboxChecked, Close, CloseFilled, CloseWhite, Edit, Profile, Back }
+import ArrowUp from './arrow_up.svg'
+import ArrowDown from './arrow_down.svg'
+import Schedule from './schedule.svg'
+import AlertLarge from './alert_large.svg'
+import SystemError from './system_error.svg'
+import LoadError from './load_error.svg'
+import NetworkError from './network_error.svg'
+import Logo from './logo.svg'
+export { Alert, ArrowUp, ArrowDown, Call, Camera, Key, Logo, CheckboxUnChecked, CheckboxChecked, Close, CloseFilled, CloseWhite, Edit, Profile, Back, Schedule, AlertLarge, SystemError, LoadError, NetworkError }
