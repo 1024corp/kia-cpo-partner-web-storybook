@@ -17,5 +17,8 @@ import AlertLarge from './alert_large.svg'
 import SystemError from './system_error.svg'
 import LoadError from './load_error.svg'
 import NetworkError from './network_error.svg'
-import Logo from './logo.svg'
-export { Alert, ArrowUp, ArrowDown, Call, Camera, Key, Logo, CheckboxUnChecked, CheckboxChecked, Close, CloseFilled, CloseWhite, Edit, Profile, Back, Schedule, AlertLarge, SystemError, LoadError, NetworkError }
+import LogoInspect from './logo_inspect.svg'
+import LogoAssessment from './logo_assessment.svg'
+import New from './new.svg'
+
+export { Alert, ArrowUp, New, ArrowDown, Call, Camera, Key, LogoInspect, LogoAssessment, CheckboxUnChecked, CheckboxChecked, Close, CloseFilled, CloseWhite, Edit, Profile, Back, Schedule, AlertLarge, SystemError, LoadError, NetworkError }
